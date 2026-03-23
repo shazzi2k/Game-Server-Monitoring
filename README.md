@@ -58,6 +58,14 @@ It collects system metrics such as CPU, memory, and disk usage, and displays the
 
 ---
 
+## Screenshots
+
+![Dashboard](./screenshots/overviewpanel.png)
+
+![Dashboard](./screenshots/monitor-cpu-ram-network.png)
+
+![Dashboard](./screenshots/monitor-diskiops.png)
+
 ## ▶️ Usage
 
 ```bash
@@ -66,5 +74,6 @@ docker compose up -d
 Grafana: http://localhost:3000
 
 Prometheus: http://localhost:9090
+
 
 
